@@ -39,11 +39,8 @@ View the sample README [here](./assets/Sample%20README.md)
 # Github Profile
 My Profile – [GitHub](https://github.com/hufflk96)
 
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
 ## Contributing
-
-
+Please clone from my repository first and work off of your own branches before pushing to main. 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
