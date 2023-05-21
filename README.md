@@ -33,7 +33,7 @@ node index.js
 
   To generate your own README for your next project or application, run command the `node index.js` in terminal and answer the following prompts.
   
-Need extra help? Watch this short [Demo Video]()<br>
+Need extra help? Watch this short [Demo Video](https://watch.screencastify.com/v/aaRyYgN7VxB4ZE9Cs58O)<br>
 View the sample README [here](./assets/Sample%20README.md)
    
 # Github Profile
