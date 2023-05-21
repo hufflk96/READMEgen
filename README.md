@@ -14,7 +14,7 @@
 Clone the repository:
 
 ```sh
-
+https://github.com/hufflk96/READMEgen.git
 ```
 
 Install the required dependencies:
